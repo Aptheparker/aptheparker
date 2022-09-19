@@ -38,6 +38,5 @@ I'm a Front End Developer from South Korea, I am passionate about technologies. 
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <!-- <a href="aptheparker.github.io/me">aptheparker's Website</a> -->
-	
+  <a href="aptheparker.github.io/me">aptheparker's Website</a>	
 </p>
