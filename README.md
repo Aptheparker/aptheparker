@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am aptheparker<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm aptheparker<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/aptheparker"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Node.js%20|%20Java%20Python;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -32,16 +32,7 @@ I'm a Front End Developer from South Korea, I am passionate about technologies. 
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jaypavasiya"><img alt="aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
-
-
-<hr/>
-
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/aptheparker/aptheparker/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
+<a href="https://github.com/aptheparker"><img alt="aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
 
 <hr/>
 
