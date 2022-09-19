@@ -33,10 +33,3 @@ I'm a Front End Developer from South Korea, I am passionate about technologies. 
 
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/aptheparker"><img alt="aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=aptheparker's%20Contribution%20Graph&theme=react-dark" /></a>
-
-<hr/>
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <a href="aptheparker.github.io/me">aptheparker's Website</a>	
-</p>
