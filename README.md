@@ -17,22 +17,22 @@ I'm a Front End Developer from South Korea, I am passionate about technologies. 
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
 
 <br>
 <hr/>
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+      src="https://github-profile-trophy.vercel.app/?username=aptheparker&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
 
 <!-- algolia -->
 <br>
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaypavasiya&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/jaypavasiya"><img alt="aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
@@ -40,7 +40,7 @@ I'm a Front End Developer from South Korea, I am passionate about technologies. 
 ## 🐍
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/aptheparker/aptheparker/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <hr/>
