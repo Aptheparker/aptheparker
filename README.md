@@ -9,16 +9,12 @@
 I'm a Front End Developer from South Korea, I am passionate about technologies. <br />
 </h4>
 <br>
-<!--<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div> -->
 <hr/> 
 
-## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+## 🔥 Github Stats & Streak Stats & Languages
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aptheparker&theme=algolia" alt="aptheparker"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="aptheparker" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker"></p>
 
 <br>
 <hr/>
