@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm aptheparker<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/aptheparker"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Node.js%20|%20Java%20Python;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/aptheparker"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Node.js%20|%20Java%|20Python;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <!-- I like to Code. -->
@@ -20,8 +20,8 @@ I'm a Front End Developer from South Korea, I am passionate about technologies. 
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=aptheparker&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+<p align="center"> <a href="https://github.com/aptheparker"><img
+      src="https://github-profile-trophy.vercel.app/?username=aptheparker&row=1&column=3&theme=algolia" alt="aptheparker" /></a>  </p>
 
 <!-- algolia -->
 <br>
