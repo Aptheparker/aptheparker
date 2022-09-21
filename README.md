@@ -12,8 +12,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <hr/> 
 
 ## 🔥 Github Stats & Streak Stats & Languages
-<p><img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="1.aptheparker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="2.aptheparker"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="3.aptheparker"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="1.aptheparker"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="2.aptheparker"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="3.aptheparker"></p>
 <br>
 <hr/>
 
@@ -25,5 +24,5 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <br>
 <hr/>
 
-## Contribution
+## 🏆 Contribution
 ![Snake animation](https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg)
