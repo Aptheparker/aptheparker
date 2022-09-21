@@ -26,4 +26,4 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <hr/>
 
 ## 🏆 Contribution
-<p align="center">![Snake animation](https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg)</p>
+<p align="center"><img src="https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg"></p>
