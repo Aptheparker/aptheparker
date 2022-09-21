@@ -20,9 +20,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 
 ## 🏆 Trophies
 <p align="center"><a href="https://github.com/aptheparker"><img
-      src="https://github-profile-trophy.vercel.app/?username=aptheparker&row=1&column=3&theme=algolia" alt="4.aptheparker" /></a>  </p>
-
-<!-- algolia -->
+      src="https://github-profile-trophy.vercel.app/?username=aptheparker&row=1&column=3&theme=algolia" alt="4.aptheparker" /></a></p>
 <br>
 <hr/>
 
