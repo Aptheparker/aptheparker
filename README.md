@@ -12,9 +12,9 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <hr/> 
 
 ## 🔥 Github Stats & Streak Stats & Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="1.aptheparker"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="2.aptheparker"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="3.aptheparker></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="aptheparker"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="aptheparker"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker></p>
 <br>
 <hr/>
 
