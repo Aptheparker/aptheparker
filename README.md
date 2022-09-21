@@ -19,3 +19,14 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
   
 ## 🐍 Contribution
 <p align="center"><img src="https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg"></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://instagram.com/aptheparker" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="aptheparker" height="30" width="40" /></a>
+</p>
+
