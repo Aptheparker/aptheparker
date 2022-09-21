@@ -29,4 +29,4 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/aptheparker"><img alt="5.aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=aptheparker's%20Contribution%20Graph&theme=react-dark" /></a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg)
