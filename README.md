@@ -16,6 +16,5 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker></p>
 <br>
 <hr/>
-
 ## 🐍 Contribution
 <p align="center"><img src="https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg"></p>
