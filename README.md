@@ -8,7 +8,6 @@
 <h4 align="center">
 I'm a Student Developer from South Korea, I am passionate about technologies. <br />
 </h4>
-<br>
 <hr/> 
 
 ## 🔥 Github Stats & Streak Stats & Languages
