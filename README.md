@@ -12,14 +12,14 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <hr/> 
 
 ## 🔥 Github Stats & Streak Stats & Languages
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="aptheparker"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="aptheparker"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker"></p>
+<p align="center">1<img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="aptheparker"></p>
+<p align="center">2<img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="aptheparker"></p>
+<p align="center">3<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker"></p>
 <br>
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/aptheparker"><img
+<p align="center">4<a href="https://github.com/aptheparker"><img
       src="https://github-profile-trophy.vercel.app/?username=aptheparker&row=1&column=3&theme=algolia" alt="aptheparker" /></a>  </p>
 
 <!-- algolia -->
@@ -27,4 +27,4 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/aptheparker"><img alt="aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=aptheparker's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/aptheparker">5<img alt="aptheparker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aptheparker&custom_title=aptheparker's%20Contribution%20Graph&theme=react-dark" /></a>
