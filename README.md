@@ -24,9 +24,6 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/jihwan Park/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="aptheparker" height="30" width="40" /></a>
   <a href="https://instagram.com/aptheparker" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="aptheparker" height="30" width="40" /></a>
