@@ -10,7 +10,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 </h4>
 <hr/> 
 
-## 🔥 Github Stats & Streak Stats & Languages
+## 🔥 Github Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=aptheparker&theme=algolia" alt="aptheparker"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="aptheparker"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker"></p>
@@ -21,8 +21,5 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 <p align="center"><img src="https://github.com/aptheparker/aptheparker/blob/output/github-contribution-grid-snake.svg"></p>
 <br>
 <hr/>
-
-## Connect with me
- <a href="https://instagram.com/aptheparker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aptheparker" height="30" width="40" /></a>
 
 
